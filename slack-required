@@ -1,0 +1,3 @@
+python >= 2.6
+rcs >= 5.7
+subversion >= 1.6
