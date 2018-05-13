@@ -1,7 +1,7 @@
 #!/bin/sh
 #
 # Slackware build script for cvs2svn
-# Copyright (C) 2010 Georgi D. Sotirov <gdsotirov@dir.bg>
+# Copyright (C) 2010-2018 Georgi D. Sotirov <gdsotirov@dir.bg>
 #
 # This program is free software; you can redistribute it and/or
 # modify it under the terms of the GNU General Public License
@@ -19,10 +19,10 @@
 #
 # Visit SlackPack at http://sotirov-bg.net/slackpack/
 #
-# $Id: cvs2svn.SlackBuild,v 1.1 2010/12/07 17:30:57 gsotirov Exp $
+# $Id: cvs2svn.SlackBuild,v 1.2 2018/05/13 16:02:06 gsotirov Exp $
 #
 
-. ../slack-package.conf
+. ../../slack-package.conf
 
 NAME=cvs2svn
 VERSION=2.3.0
