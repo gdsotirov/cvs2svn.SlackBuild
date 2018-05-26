@@ -1,3 +1,3 @@
 python >= 2.7
 rcs >= 5.9
-subversion >= 1.7
+subversion >= 1.9
