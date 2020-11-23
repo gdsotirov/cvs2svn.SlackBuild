@@ -11,4 +11,4 @@ cvs2svn: modifications were made at the same time, and outputs these
 cvs2svn: modifications grouped together as changesets in the target SCM.  It
 cvs2svn: also deals with many CVS quirks and is highly configurable.
 cvs2svn:
-cvs2svn: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
+cvs2svn: Packaged by Georgi D. Sotirov <gdsotirov@gmail.com>
